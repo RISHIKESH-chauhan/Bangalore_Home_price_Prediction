@@ -6,7 +6,7 @@
 
 
 
-![App Screenshot](https://raw.githubusercontent.com/manish1328/ML_PROJECT_1/main/Demo_pic%20(2).png)
+![App Screenshot](https://github.com/manish1328/ML_PROJECT_1/blob/main/Demo_pic.png)
 
 
 
